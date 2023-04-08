@@ -1,7 +1,7 @@
 const form = document.getElementById("chat-form");
 const input = document.getElementById("chat-input");
 const messages = document.getElementById("chat-messages");
-const apiKey = process.env.chatbot_key;
+const apiKey = chatbot_key;
 
 const preText =
   "I am your personal informational guide for health issues and there solution.i am healthy heath bot  ";
